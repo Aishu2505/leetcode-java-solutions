@@ -1,2 +1,3 @@
 # leetcode-java-solutions
-My journey of solving LeetCode problems using java
+## LeetCode Progress
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Aishu6080/)
